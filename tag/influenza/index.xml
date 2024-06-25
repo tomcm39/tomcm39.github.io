@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>influenza | tommcandrew</title>
+    <link>https://thomasmcandrew.com/tag/influenza/</link>
+      <atom:link href="https://thomasmcandrew.com/tag/influenza/index.xml" rel="self" type="application/rss+xml" />
+    <description>influenza</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>influenza</title>
+      <link>https://thomasmcandrew.com/tag/influenza/</link>
+    </image>
+    
+    <item>
+      <title>FluSight Network Ensemble</title>
+      <link>https://thomasmcandrew.com/talk/flusight-network-ensemble/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/flusight-network-ensemble/</guid>
+      <description>&lt;p&gt;We present three combination forecasting techniques.&lt;/p&gt;
+&lt;p&gt;The FluSight Network (FSN) ensemble model is a multimodel ensemble; a
+convex combination of component predictive densities.&lt;/p&gt;
+&lt;p&gt;The adaptive ensemble is a multimodel ensemble, but unlike the FSN
+ensemble, recomputes component model weights every week.&lt;/p&gt;
+&lt;p&gt;The Beta-transformed linear pool (BLP), proposed by Ranjan and
+Gneiting (2010), models an ensemble transformed by a Beta distribution&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptively stacked ensembles for influenza forecasting with incomplete data</title>
+      <link>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</guid>
+      <description>&lt;p&gt;Seasonal Influenza infects an average 30 million people in the United States every year, overburdening hospitals during weeks of peak incidence.Named by the CDC as an important tool to fight the damaging effects of these epidemics, accurate forecasts of influenza and influenza like illness (ILI) forewarn public health officials about when, and where, seasonal influenza outbreaks will hit hardest.&lt;/p&gt;
+&lt;p&gt;Ensemble forecasts have shown positive results in forecasting 1 to 4 week ahead ILI percentages better than any single model in an ensemble.But current ensemble forecasts are static within a season, training on past ILI data before the season begins and generating optimal weights for each model kept constant throughout the season.We propose a novel adaptive ensemble forecast capable of changing model weights week-by-week throughout the flu season, only needing current flu season data to make predictions, and able to moderate ensemble weights with a prior chosen through cross-validation.At the start of the season, without any data, models are weighted equally, and after observing how the ensemble&amp;rsquo;s models perform on week ahead forecasts, a variational inference algorithm updates model weights and forecasts the next 4 weeks of ILI percentages.&lt;/p&gt;
+&lt;p&gt;Our adaptive ensemble performs as well as the static ensemble in the US national and regional level (mean % dif.in log-score between adaptive and static ensemble = 1.1;upper 97.5CI =1.4) and better for more sparse seasons (e.g. Season 2011/2012;mean = -2.9;95CI = [-3.7, -2.1];p&amp;lt;0.01).The choice of prior (equal across models) also affects adaptive ensemble performance, finding the best logscore with a prior weight equal to 8% of the training data.&lt;/p&gt;
+&lt;p&gt;In settings without substantial past data (i.e. emerging pandemics) or when new models do not have a long track-record of performance, an adaptive ensemble approach will be the only option for performance-based weighting of models, enhancing the public health impact of ensemble forecasts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptively stacked ensembles for influenza forecasting with incomplete data</title>
+      <link>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</guid>
+      <description>&lt;p&gt;Influenza prediction can better prepare public health officials for seasonal outbreaks. We propose an adaptive multi-model ensemble forecast method that changes model weights week-by-week throughout the flu season. Without historical training data or when models do not have a track-record, an adaptive model can enhance the public health impact of ensemble forecasts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptively stacked ensembles for influenza forecasting with incomplete data</title>
+      <link>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</guid>
+      <description>&lt;p&gt;Seasonal Influenza infects an average 30 million people in the United States every year, overburdening hospitals during weeks of peak incidence.Named by the CDC as an important tool to fight the damaging effects of these epidemics, accurate forecasts of influenza and influenza like illness (ILI) forewarn public health officials about when, and where, seasonal influenza outbreaks will hit hardest.&lt;/p&gt;
+&lt;p&gt;Ensemble forecasts have shown positive results in forecasting 1 to 4 week ahead ILI percentages better than any single model in an ensemble.But current ensemble forecasts are static within a season, training on past ILI data before the season begins and generating optimal weights for each model kept constant throughout the season.We propose a novel adaptive ensemble forecast capable of changing model weights week-by-week throughout the flu season, only needing current flu season data to make predictions, and able to moderate ensemble weights with a prior chosen through cross-validation.At the start of the season, without any data, models are weighted equally, and after observing how the ensemble&amp;rsquo;s models perform on week ahead forecasts, a variational inference algorithm updates model weights and forecasts the next 4 weeks of ILI percentages.&lt;/p&gt;
+&lt;p&gt;Our adaptive ensemble performs as well as the static ensemble in the US national and regional level (mean % dif.in log-score between adaptive and static ensemble = 1.1;upper 97.5CI =1.4) and better for more sparse seasons (e.g. Season 2011/2012;mean = -2.9;95CI = [-3.7, -2.1];p&amp;lt;0.01).The choice of prior (equal across models) also affects adaptive ensemble performance, finding the best logscore with a prior weight equal to 8% of the training data.&lt;/p&gt;
+&lt;p&gt;In settings without substantial past data (i.e. emerging pandemics) or when new models do not have a long track-record of performance, an adaptive ensemble approach will be the only option for performance-based weighting of models, enhancing the public health impact of ensemble forecasts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

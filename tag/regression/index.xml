@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regression | tommcandrew</title>
+    <link>https://thomasmcandrew.com/tag/regression/</link>
+      <atom:link href="https://thomasmcandrew.com/tag/regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>regression</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>regression</title>
+      <link>https://thomasmcandrew.com/tag/regression/</link>
+    </image>
+    
+    <item>
+      <title>Stat340 Applied Regression (MHC)</title>
+      <link>https://thomasmcandrew.com/project/2019_mhc/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/project/2019_mhc/</guid>
+      <description>&lt;p&gt;This class will build on the ideas you developed in introductory and intermediate statistics courses.
+We&amp;rsquo;ll study state-of-the-art regression-based statistical methods, computational tools for data analysis, and apply them to real data sets.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

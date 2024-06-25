@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social media | tommcandrew</title>
+    <link>https://thomasmcandrew.com/tag/social-media/</link>
+      <atom:link href="https://thomasmcandrew.com/tag/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>social media</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Mon, 22 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>social media</title>
+      <link>https://thomasmcandrew.com/tag/social-media/</link>
+    </image>
+    
+    <item>
+      <title>What we write about when we write about causality</title>
+      <link>https://thomasmcandrew.com/talk/what-we-write-about-when-we-write-about-causality/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/what-we-write-about-when-we-write-about-causality/</guid>
+      <description>&lt;p&gt;Identifying and communicating relationships between causes and effects is important for understanding our
+world, but is affected by language structure, cognitive and
+emotional biases, and the properties of the communication
+medium. Despite the increasing importance of social media,
+much remains unknown about causal statements made online.
+To study real-world causal attribution, we extract a large-scale
+corpus of causal statements made on the Twitter social network
+platform as well as a comparable random control corpus. We
+compare causal and control statements using statistical language
+and sentiment analysis tools. We find that causal statements
+have a number of significant lexical and grammatical differences
+compared with controls and tend to be more negative in sentiment
+than controls. Causal statements made online tend to focus on
+news and current events, medicine and health, or interpersonal
+relationships, as shown by topic models. By quantifying the
+features and potential biases of causality communication, this
+study improves our understanding of the accuracy of information
+and opinions found online.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

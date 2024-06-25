@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | tommcandrew</title>
+    <link>https://thomasmcandrew.com/publication-type/1/</link>
+      <atom:link href="https://thomasmcandrew.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://thomasmcandrew.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Detection of cyber-physical faults and intrusions from physical correlations</title>
+      <link>https://thomasmcandrew.com/publication/lokhov-2016-detection/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/lokhov-2016-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What we write about when we write about causality: Features of causal statements across large-scale social discourse</title>
+      <link>https://thomasmcandrew.com/publication/mcandrew-2016-we/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/mcandrew-2016-we/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

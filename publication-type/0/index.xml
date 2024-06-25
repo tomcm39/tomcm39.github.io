@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | tommcandrew</title>
+    <link>https://thomasmcandrew.com/publication-type/0/</link>
+      <atom:link href="https://thomasmcandrew.com/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>https://thomasmcandrew.com/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Re-Thinking the Role of Statistics in Informing Heart Team Decisions: A Consensus Distribution Approach</title>
+      <link>https://thomasmcandrew.com/publication/mcandrew-2020-re/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/mcandrew-2020-re/</guid>
+      <description>&lt;p&gt;To build a heart team consensus distribution, a biostatistician would ask each member of the team to independently provide a probability distribution, for example a survival curve, of an adverse outcome  (blue lines) for different treatments a single patient may decide to undergo. Those individual predictions are then combined with a statistical algorithm. A common method to aggregate predictions into a consensus is a linear pool14, a weighted average of the heart team’s probability distributions (red line). Past work has shown consensus distributions outperform individual forecasts 15. The heart team consensus and their individual predictions can be compiled and sent to all members of the team and the patient to better inform optimal treatments. We stress that the consensus prediction would belong to a single patient, not an aggregate of patients like a traditional statistical model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HPV16 CpG methylation patterns determined by next-gen bisulfite sequencing and association with cervix precancer/cancer</title>
+      <link>https://thomasmcandrew.com/publication/frimer-2012-hpv-16/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/frimer-2012-hpv-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-dilatation and Procedural Outcomes in the PARTNER I Trial</title>
+      <link>https://thomasmcandrew.com/publication/hahn-2013-post/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/hahn-2013-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression of Severe Left Ventricular Hypertrophy After Transcatheter Valve Replacement for Aortic Stenosis: Impact on Clinical Outcomes in PARTNER Cohort A</title>
+      <link>https://thomasmcandrew.com/publication/lindman-2013-regression/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/lindman-2013-regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

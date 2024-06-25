@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dr.m on Population Health Data Science (PHDS) - I </title>
+    <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/authors/dr.m/</link>
+    <description>Recent content in dr.m on Population Health Data Science (PHDS) - I </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy {year}</copyright>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://thomasmcandrew.com/classes/2020F_PHDS1/public/authors/dr.m/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 02 - Summaries and relationships between variables</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week02/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week02/</guid>
+      <description> Reading  Please read Open Intro section 1.4 to 1.6  Todo  Please signup for a free GitHub account at https://github.com/ and fill-in this form Please download/install Python 3 on your computer. A tutorial for Windows, Linux, and Mac is available here  </description>
+    </item>
+    
+  </channel>
+</rss>

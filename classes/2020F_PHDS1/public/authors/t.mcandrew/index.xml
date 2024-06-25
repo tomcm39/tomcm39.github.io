@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>t.mcandrew on Population Health Data Science (PHDS) - I </title>
+    <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/authors/t.mcandrew/</link>
+    <description>Recent content in t.mcandrew on Population Health Data Science (PHDS) - I </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy {year}</copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://thomasmcandrew.com/classes/2020F_PHDS1/public/authors/t.mcandrew/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Python 3</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/pythontutorial/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/pythontutorial/</guid>
+      <description> Additional tutorial info  Tutorial 1 Tutorial 2 Tutorial 3 Tutorial 4 IDE  </description>
+    </item>
+    
+  </channel>
+</rss>

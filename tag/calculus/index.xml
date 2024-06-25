@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calculus | tommcandrew</title>
+    <link>https://thomasmcandrew.com/tag/calculus/</link>
+      <atom:link href="https://thomasmcandrew.com/tag/calculus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Calculus</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Thu, 25 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Calculus</title>
+      <link>https://thomasmcandrew.com/tag/calculus/</link>
+    </image>
+    
+    <item>
+      <title>Math020 Fundementals of Calculus II (UVM)</title>
+      <link>https://thomasmcandrew.com/project/example/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/project/example/</guid>
+      <description>&lt;p&gt;Fundamentals of Calculus II is the second course in our two-course applied calculus sequence. Fundamentals of Calculus II is a continuation of the study of the calculus of functions of one variable as well as a study of multivariable calculus. This will include area between curves, integration by parts, basic differential equations, separation of variables, solving first-order linear differential equations, Taylor Polynomials and Tayler Series, improper integrals, continuous random variables and probability, functions of several variables, partial derivatives, maxima and minima of multivariable functions, Lagrange multipliers, and double integrals. This basically covers chapters 6 – 11 of the textbook given below. Topics will be presented with a level of depth and rigor appropriate for students pursuing degrees in business, economics, social and life sciences. Please speak to the Department of Mathematics and Statistics if you are unsure if you are taking the correct calculus course.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

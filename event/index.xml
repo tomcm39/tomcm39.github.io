@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | tommcandrew</title>
+    <link>https://thomasmcandrew.com/event/</link>
+      <atom:link href="https://thomasmcandrew.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://thomasmcandrew.com/event/</link>
+    </image>
+    
+    <item>
+      <title>Aggregating Statistical Models and Human Judgment to forecast COVID-19</title>
+      <link>https://thomasmcandrew.com/talk/aggregating-statistical-models-and-human-judgment-to-forecast-covid-19/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/aggregating-statistical-models-and-human-judgment-to-forecast-covid-19/</guid>
+      <description>&lt;p&gt;Forecasting the trajectory of the US COVID-19 pandemic can support public health officials who make decisions with partial knowledge of how the virus will evolve over time. Computational models are capable of processing large, structured datasets. However the trajectory of COVID-19 depends on information inaccessible to computational models such as social, economic, and political influences. We aim to collect monthly probabilistic predictions from experts in the modeling of infectious disease and trained, generalist human forecasters about key targets that signal changes in the trajectory of the US COVID-19 pandemic. Predictions from humans will be (i) aggregated into a consensus forecast and (ii) combined with an ensemble of computational models, called a metaforecast. In January we collected 779 human judgment predictions on 7 targets related to COVID-19. We compared forecasts from: (i) an ensemble of computational models called the COVID-19 Forecasthub (Fhub), (ii) a consensus of human predictions and (iii) a metaforecast–a combination of the consensus and Fhub. Preliminary results for predictions of national incident cases and deaths made for the last week in January show the consensus outperformed the Fhub when predicting deaths but the Fhub made a more accurate prediction of incident cases. The metaforecast’s accuracy was between that of the consensus and Fhub. A consensus can provide forecasts of pandemic targets similar in accuracy to an ensemble of computational models. A consensus, as opposed to an ensemble, is not limited by the type of questions asked and we have asked the crowd a diverse set of questions about the pandemic. But because a consensus requires human effort we are limited by the number of questions we can ask. We aim to combine the best of both worlds by drawing on computational models and consensus of human judgment to support how public health officials translate novel information about the virus into mitigation efforts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metaforecasting the US COVID-19 outbreak</title>
+      <link>https://thomasmcandrew.com/talk/metaforecasting-the-us-covid-19-outbreak/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/metaforecasting-the-us-covid-19-outbreak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A consensus of probabilistic predictions by experts and trained forecasters of the timing and efficacy of a SARS-CoV-2 vaccine</title>
+      <link>https://thomasmcandrew.com/talk/a-consensus-of-probabilistic-predictions-by-experts-and-trained-forecasters-of-the-timing-and-efficacy-of-a-sars-cov-2-vaccine/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/a-consensus-of-probabilistic-predictions-by-experts-and-trained-forecasters-of-the-timing-and-efficacy-of-a-sars-cov-2-vaccine/</guid>
+      <description>&lt;p&gt;A safe, effective vaccine is a key component to slowing the spread of SARS- CoV- 2. But a recent poll suggests less than 50% of the US public would volunteer for inoculation, highlighting uncertainty surrounding the safety and efficacy of a vaccine. We solicited 9 infectious disease experts and 11 trained forecasters to predict: when the FDA will approve a vaccine, when 100M doses will be available to the public, and to estimate an approved vaccine’s efficacy. For the past four months, we have asked experts and trained forecasters to provide probabilistic predictions related to the timing and efficacy of a SARS- CoV- 2 vaccine. At the end of each month we (i) combined predictions using an equally-weighted linear pool, (ii) created a report that contained key findings and a detailed description of questions and consensus predictions, (iii) made this report and the data used to create it available to the CDC and public. A total 20 experts and forecasters made 537 predictions over 26 questions. A consensus of experts and trained forecasters predict a median of Jan. 2021 [80%CI: Oct. 2020, Nov. 2021] for when the FDA will approve a SARS- CoV-2 vaccine and a median of 18 weeks after approval [80%CI: 5.0, 50.0] for when 100M doses will be available to the public. Experts’ median prediction of efficacy was 50% [80%CI: 26%, 76%] for the first approved vaccine. An expert consensus provides realistic estimates of a COVID-19 solution with the goal of improving public awareness, public health communication, and decision making. Experts can quantify their predictions with a probabilistic distribution. Predictions are timely and based on up- to- date information. Experts predict: a vaccine will likely be approved by Jan. 2021 and that 100M doses will be available within 5 months of approval, but this vaccine may not be efficacious enough to achieve herd immunity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consensus probabilistic predictions of the timing, efficacy, and safety of a SARS-CoV-2 vaccine by experts and trained forecasters</title>
+      <link>https://thomasmcandrew.com/talk/consensus-probabilistic-predictions-of-the-timing-efficacy-and-safety-of-a-sars-cov-2-vaccine-by-experts-and-trained-forecasters/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/consensus-probabilistic-predictions-of-the-timing-efficacy-and-safety-of-a-sars-cov-2-vaccine-by-experts-and-trained-forecasters/</guid>
+      <description>&lt;p&gt;In the first of our new Speaker Series exploring the science of forecasting, biostatistician
+@tomcm39 will present new research on Consensus Forecasting Models for COVID-19 Vaccines and Treatments, supporting policy makers and the public. Join us on 10/23!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aggregating Expert Opinion on COVID-19</title>
+      <link>https://thomasmcandrew.com/talk/aggregating-expert-opinion-on-covid-19/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/aggregating-expert-opinion-on-covid-19/</guid>
+      <description>&lt;p&gt;Community-wide transmission of SARS-CoV-2 was reported in the US on February 26th. Since the virus was declared a pandemic by the WHO on March 11th, it has spread rapidly throughout the US and has caused more than 1.1M confirmed cases and 62K deaths. Forecasts provide public health officials at the state and federal level actionable information that can be used to mitigate the impact of an outbreak in advance. But forecasts from computational models often depend heavily on noisy surveillance data and take a large amount of work to build. Without guidance from forecasts, public health must rely on sparse past experiences to inform intervention. An expert consensus forecast, synthesizing both objective and subjective information, can be developed quickly and make predictions during the early phase of an outbreak, when computational models are still being built. In addition, an expert judgment model can address changing public health needs by asking different questions without much overhead. Each week from February 17th (early in the outbreak) to present we asked experts to predict the trajectory of the COVID-19 outbreak in the US. More than 40 experts made predictions that provided early information to public health officials. Over two months, experts made 4 predictions of the number of deaths in the US by the end of 2020 and gave median predictions between 150,000 to 250,000 deaths. Corresponding 80% prediction intervals of the number of deaths were generated and the minimum lower bound was 19.0K and maximum upper bound was 1.2M. Experts also estimate that, as of Apr 27th, there are over 14.5 million total SARS-CoV-2 cases present in the US with an 80% prediction interval of 4.8M to 28.1M. US national-level hospitalizations, experts predict, will most likely peak between April and June. Expert’s estimates agree with other computational model forecasts, and expert’s 80% prediction intervals covered the true number of confirmed cases in the US on nine out of ten evaluable predictions. An expert consensus has little overhead and can be deployed early in an outbreak to provide decision makers insight into an evolving disease. After computational models are built, experts can examine a broad array of questions to complement computational forecasts during a global catastrophe such as the novel coronavirus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aggregating Expert Opinion on COVID-19</title>
+      <link>https://thomasmcandrew.com/talk/aggregating-expert-opinion-on-covid-19/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/aggregating-expert-opinion-on-covid-19/</guid>
+      <description>&lt;p&gt;Community-wide transmission of SARS-CoV-2 was reported in the US on February 26th. Since the virus was declared a pandemic by the WHO on March 11th, it has spread rapidly throughout the US and has caused more than 1.1M confirmed cases and 62K deaths. Forecasts provide public health officials at the state and federal level actionable information that can be used to mitigate the impact of an outbreak in advance. But forecasts from computational models often depend heavily on noisy surveillance data and take a large amount of work to build. Without guidance from forecasts, public health must rely on sparse past experiences to inform intervention. An expert consensus forecast, synthesizing both objective and subjective information, can be developed quickly and make predictions during the early phase of an outbreak, when computational models are still being built. In addition, an expert judgment model can address changing public health needs by asking different questions without much overhead. Each week from February 17th (early in the outbreak) to present we asked experts to predict the trajectory of the COVID-19 outbreak in the US. More than 40 experts made predictions that provided early information to public health officials. Over two months, experts made 4 predictions of the number of deaths in the US by the end of 2020 and gave median predictions between 150,000 to 250,000 deaths. Corresponding 80% prediction intervals of the number of deaths were generated and the minimum lower bound was 19.0K and maximum upper bound was 1.2M. Experts also estimate that, as of Apr 27th, there are over 14.5 million total SARS-CoV-2 cases present in the US with an 80% prediction interval of 4.8M to 28.1M. US national-level hospitalizations, experts predict, will most likely peak between April and June. Expert’s estimates agree with other computational model forecasts, and expert’s 80% prediction intervals covered the true number of confirmed cases in the US on nine out of ten evaluable predictions. An expert consensus has little overhead and can be deployed early in an outbreak to provide decision makers insight into an evolving disease. After computational models are built, experts can examine a broad array of questions to complement computational forecasts during a global catastrophe such as the novel coronavirus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FluSight Network Ensemble</title>
+      <link>https://thomasmcandrew.com/talk/flusight-network-ensemble/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/flusight-network-ensemble/</guid>
+      <description>&lt;p&gt;We present three combination forecasting techniques.&lt;/p&gt;
+&lt;p&gt;The FluSight Network (FSN) ensemble model is a multimodel ensemble; a
+convex combination of component predictive densities.&lt;/p&gt;
+&lt;p&gt;The adaptive ensemble is a multimodel ensemble, but unlike the FSN
+ensemble, recomputes component model weights every week.&lt;/p&gt;
+&lt;p&gt;The Beta-transformed linear pool (BLP), proposed by Ranjan and
+Gneiting (2010), models an ensemble transformed by a Beta distribution&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptively stacked ensembles for influenza forecasting with incomplete data</title>
+      <link>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</guid>
+      <description>&lt;p&gt;Seasonal Influenza infects an average 30 million people in the United States every year, overburdening hospitals during weeks of peak incidence.Named by the CDC as an important tool to fight the damaging effects of these epidemics, accurate forecasts of influenza and influenza like illness (ILI) forewarn public health officials about when, and where, seasonal influenza outbreaks will hit hardest.&lt;/p&gt;
+&lt;p&gt;Ensemble forecasts have shown positive results in forecasting 1 to 4 week ahead ILI percentages better than any single model in an ensemble.But current ensemble forecasts are static within a season, training on past ILI data before the season begins and generating optimal weights for each model kept constant throughout the season.We propose a novel adaptive ensemble forecast capable of changing model weights week-by-week throughout the flu season, only needing current flu season data to make predictions, and able to moderate ensemble weights with a prior chosen through cross-validation.At the start of the season, without any data, models are weighted equally, and after observing how the ensemble&amp;rsquo;s models perform on week ahead forecasts, a variational inference algorithm updates model weights and forecasts the next 4 weeks of ILI percentages.&lt;/p&gt;
+&lt;p&gt;Our adaptive ensemble performs as well as the static ensemble in the US national and regional level (mean % dif.in log-score between adaptive and static ensemble = 1.1;upper 97.5CI =1.4) and better for more sparse seasons (e.g. Season 2011/2012;mean = -2.9;95CI = [-3.7, -2.1];p&amp;lt;0.01).The choice of prior (equal across models) also affects adaptive ensemble performance, finding the best logscore with a prior weight equal to 8% of the training data.&lt;/p&gt;
+&lt;p&gt;In settings without substantial past data (i.e. emerging pandemics) or when new models do not have a long track-record of performance, an adaptive ensemble approach will be the only option for performance-based weighting of models, enhancing the public health impact of ensemble forecasts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptively stacked ensembles for influenza forecasting with incomplete data</title>
+      <link>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</guid>
+      <description>&lt;p&gt;Influenza prediction can better prepare public health officials for seasonal outbreaks. We propose an adaptive multi-model ensemble forecast method that changes model weights week-by-week throughout the flu season. Without historical training data or when models do not have a track-record, an adaptive model can enhance the public health impact of ensemble forecasts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptively stacked ensembles for influenza forecasting with incomplete data</title>
+      <link>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/adaptively-stacked-ensembles-for-influenza-forecasting-with-incomplete-data/</guid>
+      <description>&lt;p&gt;Seasonal Influenza infects an average 30 million people in the United States every year, overburdening hospitals during weeks of peak incidence.Named by the CDC as an important tool to fight the damaging effects of these epidemics, accurate forecasts of influenza and influenza like illness (ILI) forewarn public health officials about when, and where, seasonal influenza outbreaks will hit hardest.&lt;/p&gt;
+&lt;p&gt;Ensemble forecasts have shown positive results in forecasting 1 to 4 week ahead ILI percentages better than any single model in an ensemble.But current ensemble forecasts are static within a season, training on past ILI data before the season begins and generating optimal weights for each model kept constant throughout the season.We propose a novel adaptive ensemble forecast capable of changing model weights week-by-week throughout the flu season, only needing current flu season data to make predictions, and able to moderate ensemble weights with a prior chosen through cross-validation.At the start of the season, without any data, models are weighted equally, and after observing how the ensemble&amp;rsquo;s models perform on week ahead forecasts, a variational inference algorithm updates model weights and forecasts the next 4 weeks of ILI percentages.&lt;/p&gt;
+&lt;p&gt;Our adaptive ensemble performs as well as the static ensemble in the US national and regional level (mean % dif.in log-score between adaptive and static ensemble = 1.1;upper 97.5CI =1.4) and better for more sparse seasons (e.g. Season 2011/2012;mean = -2.9;95CI = [-3.7, -2.1];p&amp;lt;0.01).The choice of prior (equal across models) also affects adaptive ensemble performance, finding the best logscore with a prior weight equal to 8% of the training data.&lt;/p&gt;
+&lt;p&gt;In settings without substantial past data (i.e. emerging pandemics) or when new models do not have a long track-record of performance, an adaptive ensemble approach will be the only option for performance-based weighting of models, enhancing the public health impact of ensemble forecasts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combining human intuition with machine measurements for sharper estimates of left ventricular ejection fraction</title>
+      <link>https://thomasmcandrew.com/talk/combining-human-intuition-with-machine-measurements-for-sharper-estimates-of-left-ventricular-ejection-fraction/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/combining-human-intuition-with-machine-measurements-for-sharper-estimates-of-left-ventricular-ejection-fraction/</guid>
+      <description>&lt;p&gt;Background: Left ventricular ejection fraction (LVEF) is the most commonly used clinical measure of systolic function and is a powerful predictor of outcomes.  Current guidelines recommend using the biplane method of discs (MOD) (modified Simpson’s rule) to measure LVEF however the accuracy of this measurement is dependent on endocardial border detection and orthogonal, on-axis biplane imaging, and studies report both inter and intraobserver variability.&lt;/p&gt;
+&lt;p&gt;Objectives: In this analysis, we sought to reduce measurement error by fusing the cardiologist&amp;rsquo;s visual approximation of LVEF with the biplane MOD. Furthermore, we hypothesized that this new assimilated LVEF will better correlate with clinical outcomes.&lt;/p&gt;
+&lt;p&gt;Methods: We studied intermediate surgical risk patients with severe, symptomatic aortic stenosis from the PARTNER-IIA Trial treated with either surgical or transcatheter bioprosthetic aortic valves, who had core-lab assessments of both a visual estimate and a biplane MOD measurement of LVEF.&lt;/p&gt;
+&lt;p&gt;Results: Assimilating the core lab cardiologist’s visual estimate with the biplane MOD estimate, reduces variability by 28.7% on average compared to the biplane MOD estimate alone. After accounting for LVEF measurement error, the assimilated LVEF shrank confidence intervals for the association between LVEF&amp;lt; 35% and the composite of 1 year cardiovascular death compared to biplane MOD (pvalue &amp;lt; 0.01)&lt;/p&gt;
+&lt;p&gt;Conclusions: Combining an experienced echocardiographer’s visual estimates and biplane MOD measurements, can reduce reproducibility errors in LVEF measurement and improve the association between LVEF and cardiovascular mortality at 1 year in a large, population-based study.&lt;/p&gt;
+&lt;p&gt;K&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What we write about when we write about causality</title>
+      <link>https://thomasmcandrew.com/talk/what-we-write-about-when-we-write-about-causality/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/what-we-write-about-when-we-write-about-causality/</guid>
+      <description>&lt;p&gt;Identifying and communicating relationships between causes and effects is important for understanding our
+world, but is affected by language structure, cognitive and
+emotional biases, and the properties of the communication
+medium. Despite the increasing importance of social media,
+much remains unknown about causal statements made online.
+To study real-world causal attribution, we extract a large-scale
+corpus of causal statements made on the Twitter social network
+platform as well as a comparable random control corpus. We
+compare causal and control statements using statistical language
+and sentiment analysis tools. We find that causal statements
+have a number of significant lexical and grammatical differences
+compared with controls and tend to be more negative in sentiment
+than controls. Causal statements made online tend to focus on
+news and current events, medicine and health, or interpersonal
+relationships, as shown by topic models. By quantifying the
+features and potential biases of causality communication, this
+study improves our understanding of the accuracy of information
+and opinions found online.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Percolation on Spatial Networks</title>
+      <link>https://thomasmcandrew.com/talk/percolation-on-spatial-networks/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/percolation-on-spatial-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness of Spatial Micronetworks</title>
+      <link>https://thomasmcandrew.com/talk/robustness-of-spatial-micronetworks/</link>
+      <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/robustness-of-spatial-micronetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and Functional Robustness in Networks</title>
+      <link>https://thomasmcandrew.com/talk/structural-and-functional-robustness-in-networks/</link>
+      <pubDate>Thu, 03 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/structural-and-functional-robustness-in-networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

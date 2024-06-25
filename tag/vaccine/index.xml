@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vaccine | tommcandrew</title>
+    <link>https://thomasmcandrew.com/tag/vaccine/</link>
+      <atom:link href="https://thomasmcandrew.com/tag/vaccine/index.xml" rel="self" type="application/rss+xml" />
+    <description>vaccine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>vaccine</title>
+      <link>https://thomasmcandrew.com/tag/vaccine/</link>
+    </image>
+    
+    <item>
+      <title>A consensus of probabilistic predictions by experts and trained forecasters of the timing and efficacy of a SARS-CoV-2 vaccine</title>
+      <link>https://thomasmcandrew.com/talk/a-consensus-of-probabilistic-predictions-by-experts-and-trained-forecasters-of-the-timing-and-efficacy-of-a-sars-cov-2-vaccine/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/a-consensus-of-probabilistic-predictions-by-experts-and-trained-forecasters-of-the-timing-and-efficacy-of-a-sars-cov-2-vaccine/</guid>
+      <description>&lt;p&gt;A safe, effective vaccine is a key component to slowing the spread of SARS- CoV- 2. But a recent poll suggests less than 50% of the US public would volunteer for inoculation, highlighting uncertainty surrounding the safety and efficacy of a vaccine. We solicited 9 infectious disease experts and 11 trained forecasters to predict: when the FDA will approve a vaccine, when 100M doses will be available to the public, and to estimate an approved vaccine’s efficacy. For the past four months, we have asked experts and trained forecasters to provide probabilistic predictions related to the timing and efficacy of a SARS- CoV- 2 vaccine. At the end of each month we (i) combined predictions using an equally-weighted linear pool, (ii) created a report that contained key findings and a detailed description of questions and consensus predictions, (iii) made this report and the data used to create it available to the CDC and public. A total 20 experts and forecasters made 537 predictions over 26 questions. A consensus of experts and trained forecasters predict a median of Jan. 2021 [80%CI: Oct. 2020, Nov. 2021] for when the FDA will approve a SARS- CoV-2 vaccine and a median of 18 weeks after approval [80%CI: 5.0, 50.0] for when 100M doses will be available to the public. Experts’ median prediction of efficacy was 50% [80%CI: 26%, 76%] for the first approved vaccine. An expert consensus provides realistic estimates of a COVID-19 solution with the goal of improving public awareness, public health communication, and decision making. Experts can quantify their predictions with a probabilistic distribution. Predictions are timely and based on up- to- date information. Experts predict: a vaccine will likely be approved by Jan. 2021 and that 100M doses will be available within 5 months of approval, but this vaccine may not be efficacious enough to achieve herd immunity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

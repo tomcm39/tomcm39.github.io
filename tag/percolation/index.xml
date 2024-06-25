@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>percolation | tommcandrew</title>
+    <link>https://thomasmcandrew.com/tag/percolation/</link>
+      <atom:link href="https://thomasmcandrew.com/tag/percolation/index.xml" rel="self" type="application/rss+xml" />
+    <description>percolation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Tue, 28 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>percolation</title>
+      <link>https://thomasmcandrew.com/tag/percolation/</link>
+    </image>
+    
+    <item>
+      <title>Percolation on Spatial Networks</title>
+      <link>https://thomasmcandrew.com/talk/percolation-on-spatial-networks/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/percolation-on-spatial-networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

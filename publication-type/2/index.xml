@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | tommcandrew</title>
+    <link>https://thomasmcandrew.com/publication-type/2/</link>
+      <atom:link href="https://thomasmcandrew.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://thomasmcandrew.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Aggregating probabilistic predictions of the safety, efficacy, and timing of a COVID-19 vaccine</title>
+      <link>https://thomasmcandrew.com/publication/mcandrew-2021-vaccine/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/mcandrew-2021-vaccine/</guid>
+      <description>&lt;p&gt;Safe, efficacious vaccines were developed to reduce the transmission of SARS-CoV-2 during the COVID-19 pandemic. But in the middle of 2020, vaccine effectiveness, safety, and the timeline for when a vaccine would be approved and distributed to the public was uncertain. To support public health decision making, we solicited trained forecasters and experts in vaccinology and infectious disease to provide monthly probabilistic predictions from July to September of 2020 of the efficacy, safety, timing, and delivery of a COVID-19 vaccine. We found, that despite sparse historical data, a consensus&amp;ndash;a combination of human judgment probabilistic predictions&amp;ndash;can quantify the uncertainty in clinical significance and timing of a potential vaccine. The consensus underestimated how fast a therapy would show a survival benefit and the high efficacy of approved COVID-19 vaccines. However, the consensus did make an accurate prediction for when a vaccine would be approved by the FDA. Compared to individual forecasters, the consensus was consistently above the 50th percentile of the most accurate forecasts. A consensus is a fast and versatile method to build probabilistic predictions of a developing vaccine that is robust to poor individual predictions. Though experts and trained forecasters did underestimate the speed of development and the high efficacy of a SARS-CoV-2 vaccine, consensus predictions can improve situational awareness for public health officials and for the public make clearer the risks, rewards, and timing of a vaccine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of Coronary Artery Tortuosity on Outcomes Following Stenting: A Pooled Analysis From 6 Trials</title>
+      <link>https://thomasmcandrew.com/publication/konigstein-2021-impact/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/konigstein-2021-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship between insulin resistance, coronary plaque, and clinical outcomes in patients with acute coronary syndromes: an analysis from the PROSPECT study</title>
+      <link>https://thomasmcandrew.com/publication/farhan-2021-relationship/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/farhan-2021-relationship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An expert judgment model to predict early stages of the COVID-19 outbreak in the United States</title>
+      <link>https://thomasmcandrew.com/publication/mcandrew-2020-expert/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/mcandrew-2020-expert/</guid>
+      <description>&lt;p&gt;From February to May 2020, experts in the modeling of infectious disease provided quantitative predictions and estimates of trends in the emerging COVID-19 pandemic in a series of 13 surveys. Data on existing transmission patterns were sparse when the pandemic began, but experts synthesized information available to them to provide quantitative, judgment-based assessments of the current and future state of the pandemic. We aggregated expert predictions into a single “consensus prediction” by taking an equally weighted average of their probabilistic statements. At a time when few computational models made public estimates or predictions about the pandemic, expert judgment provided (a) falsifiable predictions of short- and long-term pandemic outcomes related to reported COVID-19 cases, hospitalizations, and deaths, (b) estimates of latent viral transmission, and (c) counterfactual assessments of pandemic trajectories under different scenarios. The consensus approach of aggregating expert predictions provided more consistently accurate predictions than any individual expert, although the predictive accuracy of a consensus rarely provided the most accurate prediction. This work highlights the importance that expert consensus could play in flexibly assessing a wide array of risks early in future emerging outbreaks, especially in settings where available data cannot yet support data-driven computational modeling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aggregating predictions from experts: A review of statistical methods, experiments, and applications</title>
+      <link>https://thomasmcandrew.com/publication/mcandrew-2021-aggregating/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/mcandrew-2021-aggregating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diastolic function and clinical outcomes after transcatheter aortic valve replacement: PARTNER 2 SAPIEN 3 registry</title>
+      <link>https://thomasmcandrew.com/publication/ong-2020-diastolic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/ong-2020-diastolic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global approach to high bleeding risk patients with polymer-free drug-coated coronary stents: the LF II study</title>
+      <link>https://thomasmcandrew.com/publication/krucoff-2020-global/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/krucoff-2020-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of lesion preparation strategies on outcomes of left main PCI: The EXCEL trial</title>
+      <link>https://thomasmcandrew.com/publication/beohar-2020-impact/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/beohar-2020-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual patient data pooled analysis of randomized trials of bivalirudin versus heparin in acute myocardial infarction: rationale and methodology</title>
+      <link>https://thomasmcandrew.com/publication/bikdeli-2020-individual/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/bikdeli-2020-individual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mortality after repeat revascularization following PCI or CABG for left main disease: the EXCEL trial</title>
+      <link>https://thomasmcandrew.com/publication/giustino-2020-mortality/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/giustino-2020-mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentinel event surveillance to estimate total SARS-CoV-2 infections, United States</title>
+      <link>https://thomasmcandrew.com/publication/lover-2020-sentinel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/lover-2020-sentinel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stent-related adverse events$&gt;$ 1 year after percutaneous coronary intervention</title>
+      <link>https://thomasmcandrew.com/publication/madhavan-2020-stent/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/madhavan-2020-stent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The sleep loss insult of Spring Daylight Savings in the US is absorbed by Twitter users within 48 hours</title>
+      <link>https://thomasmcandrew.com/publication/linnell-2020-sleep/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/linnell-2020-sleep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The win ratio approach for composite endpoints: practical guidance based on previous experience</title>
+      <link>https://thomasmcandrew.com/publication/redfors-2020-win/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/redfors-2020-win/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptively stacking ensembles for influenza forecasting with incomplete data</title>
+      <link>https://thomasmcandrew.com/publication/mcandrew-2019-ensemble/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/mcandrew-2019-ensemble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy of fractional flow reserve derived from coronary angiography</title>
+      <link>https://thomasmcandrew.com/publication/fearon-2019-accuracy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/fearon-2019-accuracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adverse events in patients with high platelet reactivity following successful chronic total occlusion PCI: The Assessment of Dual AntiPlatelet Therapy with Drug-Eluting Stents (ADAPT-DES) study</title>
+      <link>https://thomasmcandrew.com/publication/finn-2019-adverse/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/finn-2019-adverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of Statin Use and Mortality After Transcatheter Aortic Valve Replacement</title>
+      <link>https://thomasmcandrew.com/publication/peri-2019-association/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/peri-2019-association/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of an Individual Patient Database of Participants from Randomized Trials of Periprocedural Anticoagulation with Bivalirudin versus Heparin in Percutaneous Coronary Intervention: Rationale and Methodological Considerations</title>
+      <link>https://thomasmcandrew.com/publication/bikdeli-2019-development/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/bikdeli-2019-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnostic Performance of Angiography-based Fractional Flow Reserve in Subgroups: report from the FAST-FFR study</title>
+      <link>https://thomasmcandrew.com/publication/kobayashi-2019-diagnostic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kobayashi-2019-diagnostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Baseline Left Ventricular Ejection Fraction on 2-Year Outcomes After Transcatheter Aortic Valve Replacement: Analysis of the PARTNER 2 Trials</title>
+      <link>https://thomasmcandrew.com/publication/furer-2019-effect/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/furer-2019-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Cox models react to a study-specific confounder in a patient-level pooled dataset: random effects better cope with an imbalanced covariate across trials unless baseline hazards differ</title>
+      <link>https://thomasmcandrew.com/publication/mcandrew-2019-cox/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/mcandrew-2019-cox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of large periprocedural myocardial infarction on mortality after percutaneous coronary intervention and coronary artery bypass grafting for left main disease: an analysis from the EXCEL trial</title>
+      <link>https://thomasmcandrew.com/publication/ben-2019-impact/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/ben-2019-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of point-of-care platelet function testing among patients with and without acute coronary syndromes undergoing percutaneous coronary intervention with drug-eluting stents (from the ADAPT-DES Study)</title>
+      <link>https://thomasmcandrew.com/publication/rinaldi-2019-impact/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/rinaldi-2019-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of pre-diabetes on coronary plaque composition and clinical outcome in patients with acute coronary syndromes: an analysis from the PROSPECT study</title>
+      <link>https://thomasmcandrew.com/publication/farhan-2019-impact/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/farhan-2019-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of short-term complications on mortality and quality of life after transcatheter aortic valve replacement</title>
+      <link>https://thomasmcandrew.com/publication/arnold-2019-impact/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/arnold-2019-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implications of Left Ventricular Geometry in Low-Flow Aortic Stenosis: A PARTNER 2 Trial Subanalysis.</title>
+      <link>https://thomasmcandrew.com/publication/gertz-2019-implications/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/gertz-2019-implications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In vitro mechanical behavior and in vivo healing response of a novel thin-strut ultrahigh molecular weight poly-l-lactic acid sirolimus-eluting bioresorbable coronary scaffold in normal swine</title>
+      <link>https://thomasmcandrew.com/publication/cheng-2019-vitro/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/cheng-2019-vitro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incidence and predictors of target lesion failure in patients undergoing contemporary DES implantation—Individual patient data pooled analysis from 6 randomized controlled trials</title>
+      <link>https://thomasmcandrew.com/publication/konigstein-2019-incidence/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/konigstein-2019-incidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcomes of left main revascularization in patients with acute coronary syndromes and stable ischemic heart disease: Analysis from the EXCEL trial</title>
+      <link>https://thomasmcandrew.com/publication/doucet-2019-outcomes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/doucet-2019-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictors of mortality in patients with non-anterior ST-segment elevation myocardial infarction: Analysis from the HORIZONS-AMI trial</title>
+      <link>https://thomasmcandrew.com/publication/huang-2019-predictors/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/huang-2019-predictors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bleeding Severity After Percutaneous Coronary Intervention</title>
+      <link>https://thomasmcandrew.com/publication/redfors-2018-bleeding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/redfors-2018-bleeding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crossing points in survival analysis sensitively depend on system conditions</title>
+      <link>https://thomasmcandrew.com/publication/mcandrew-2018-crossing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/mcandrew-2018-crossing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficacy and safety of bivalirudin in coronary artery disease patients with mild to moderate chronic kidney disease: Meta-analysis</title>
+      <link>https://thomasmcandrew.com/publication/zeng-2018-efficacy/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/zeng-2018-efficacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact Of Lesion Preparation Strategies On Outcomes Of Left Main Pci: The EXCEL Trial</title>
+      <link>https://thomasmcandrew.com/publication/beohar-2018-impact/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/beohar-2018-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incidence And Predictors Of Contemporary DES Failure: Individual-Patient Data Pooled Analysis From 11 Randomized Controlled Trials</title>
+      <link>https://thomasmcandrew.com/publication/konigstein-2018-incidence/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/konigstein-2018-incidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Left Main Revascularization With PCI or CABG in Patients With Chronic Kidney Disease: EXCEL Trial</title>
+      <link>https://thomasmcandrew.com/publication/giustino-2018-left/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/giustino-2018-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New-Onset Atrial Fibrillation After PCI or CABG for Left Main Disease: The EXCEL Trial</title>
+      <link>https://thomasmcandrew.com/publication/kosmidou-2018-new/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kosmidou-2018-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcomes after coronary stenting or bypass surgery for men and women with unprotected left main disease: the EXCEL trial</title>
+      <link>https://thomasmcandrew.com/publication/serruys-2018-outcomes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/serruys-2018-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcomes after Transcatheter and Surgical Aortic Valve Replacement in Intermediate Risk Patients with Preoperative Mitral Regurgitation: Analysis of PARTNER II Randomized Cohort</title>
+      <link>https://thomasmcandrew.com/publication/malaisrie-2018-outcomes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/malaisrie-2018-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Percutaneous coronary intervention of lesions with in-stent restenosis: A report from the ADAPT-DES study</title>
+      <link>https://thomasmcandrew.com/publication/redfors-2018-percutaneous/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/redfors-2018-percutaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platelet Reactivity and Risk of Ischemic Stroke After Coronary Drug-Eluting Stent Implantation: From the ADAPT-DES Study</title>
+      <link>https://thomasmcandrew.com/publication/giustino-2018-platelet/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/giustino-2018-platelet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of ischemic and bleeding events using the dual antiplatelet therapy score in an unrestricted percutaneous coronary intervention population: analysis from the ADAPT-DES registry</title>
+      <link>https://thomasmcandrew.com/publication/brener-2018-prediction/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/brener-2018-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictors of Left Ventricular Remodeling After Myocardial Infarction in Patients With a Patent Infarct Related Coronary Artery After Percutaneous Coronary Intervention (from the Post-Myocardial Infarction Remodeling Prevention Therapy [PRomPT] Trial)</title>
+      <link>https://thomasmcandrew.com/publication/garber-2018-predictors/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/garber-2018-predictors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced Baseline Ejection Fraction Is Associated With Increased Cardiovascular Mortality After Transcatheter Aortic Valve Replacement: Results From The PARTNER II Trials</title>
+      <link>https://thomasmcandrew.com/publication/furer-2018-reduced/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/furer-2018-reduced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship between intravascular ultrasound guidance and clinical outcomes after drug-eluting stents: two-year follow-up of the ADAPT-DES study</title>
+      <link>https://thomasmcandrew.com/publication/maehara-2018-relationship/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/maehara-2018-relationship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routine Early Discharge After Transcatheter Aortic Valve Replacement: A Propensity Score Analysis From The PARTNER 2 Sapien 3 Study</title>
+      <link>https://thomasmcandrew.com/publication/devireddy-2018-routine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/devireddy-2018-routine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of post-dilatation on outcomes in the PARTNER 2 SAPIEN 3 registry</title>
+      <link>https://thomasmcandrew.com/publication/hahn-2018-effect/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/hahn-2018-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Biomechanical Behavior and Healing Profile of a Novel Thinned Wall Ultrahigh Molecular Weight Amorphous Poly-l-Lactic Acid Sirolimus-Eluting Bioresorbable Coronary Scaffold</title>
+      <link>https://thomasmcandrew.com/publication/cheng-2017-comparative/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/cheng-2017-comparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Outcomes and Prognosis of Patients With Versus Without Newly Diagnosed Diabetes Mellitus After Primary Percutaneous Coronary Intervention for ST-Elevation Myocardial Infarction (the HORIZONS-AMI Study)</title>
+      <link>https://thomasmcandrew.com/publication/ertelt-2017-comparison/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/ertelt-2017-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation of Admission Heart Rate With Angiographic and Clinical Outcomes in Patients With Right Coronary Artery ST-Segment Elevation Myocardial Infarction Undergoing Primary Percutaneous Coronary Intervention: HORIZONS-AMI (The Harmonizing Outcomes With Revascularization and Stents in Acute Myocardial Infarction) Trial</title>
+      <link>https://thomasmcandrew.com/publication/kosmidou-2017-correlation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kosmidou-2017-correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Ventricular Tachycardia or Fibrillation in Patients With ST Elevation Myocardial Infarction Undergoing Primary Percutaneous Coronary Intervention and Impact on Mortality and Stent Thrombosis (from the Harmonizing Outcomes with Revascularization and Stents in Acute Myocardial Infarction Trial)</title>
+      <link>https://thomasmcandrew.com/publication/kosmidou-2017-early/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kosmidou-2017-early/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect Of Thrombotic And Bleeding Risk According To Platelet Reactivity On 2-Year Mortality: The ADAPT-DES Study</title>
+      <link>https://thomasmcandrew.com/publication/chandrasekhar-2017-effect/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/chandrasekhar-2017-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of TCFA on unanticipated ischemic events in medically treated diabetes mellitus: insights from the PROSPECT study</title>
+      <link>https://thomasmcandrew.com/publication/kedhi-2017-impact/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kedhi-2017-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incidence, Predictors, and Outcomes of High-Grade Atrioventricular Block in Patients With ST-Segment Elevation Myocardial Infarction Undergoing Primary Percutaneous Coronary Intervention (from the HORIZONS-AMI Trial)</title>
+      <link>https://thomasmcandrew.com/publication/kosmidou-2017-incidence/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kosmidou-2017-incidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Platelet Reactivity Associated With Ischemic Events Following Successful Chronic Total Occlusion Percutaneous Coronary Intervention</title>
+      <link>https://thomasmcandrew.com/publication/finn-2017-platelet/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/finn-2017-platelet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mortality, Length of Stay, and Cost Implications of Procedural Bleeding After Percutaneous Interventions Using Large-Bore Catheters</title>
+      <link>https://thomasmcandrew.com/publication/redfors-2017-mortality/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/redfors-2017-mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcomes After Successful Percutaneous Coronary Intervention of Calcified Lesions Using Rotational Atherectomy, Cutting Balloon Angioplasty, or Balloon-Only Angioplasty Before Drug-Eluting Stent Implantation.</title>
+      <link>https://thomasmcandrew.com/publication/redfors-2017-outcomes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/redfors-2017-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcomes in elderly and young patients with ST-segment elevation myocardial infarction undergoing primary percutaneous coronary intervention with bivalirudin versus heparin: pooled analysis from the EUROMAX and HORIZONS-AMI trials</title>
+      <link>https://thomasmcandrew.com/publication/qaderdan-2017-outcomes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/qaderdan-2017-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Percutaneous Coronary Intervention of Saphenous Vein Graft</title>
+      <link>https://thomasmcandrew.com/publication/redfors-2017-percutaneous/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/redfors-2017-percutaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platelet Reactivity And Outcomes After PCI Of Lesions With And Without In-Stent Restenosis: The ADAPT-DES Study</title>
+      <link>https://thomasmcandrew.com/publication/redfors-2017-platelet/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/redfors-2017-platelet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply &amp; Supply: Efficient crowdsourcing when workers do more than answer questions</title>
+      <link>https://thomasmcandrew.com/publication/mcandrew-2017-reply/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/mcandrew-2017-reply/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serial 3-Vessel Optical Coherence Tomography and Intravascular Ultrasound Analysis of Changing Morphologies Associated With Lesion Progression in Patients With Stable Angina PectorisCLINICAL PERSPECTIVE</title>
+      <link>https://thomasmcandrew.com/publication/yamamoto-2017-serial/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/yamamoto-2017-serial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staging classification of aortic stenosis based on the extent of cardiac damage</title>
+      <link>https://thomasmcandrew.com/publication/genereux-2017-staging/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/genereux-2017-staging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Myocardial Contraction Fraction Predicts Adverse Events after Transcatheter Aortic Valve Replacement: P2-16</title>
+      <link>https://thomasmcandrew.com/publication/madhavan-2017-myocardial/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/madhavan-2017-myocardial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worsening atrioventricular conduction after hospital discharge in patients with ST-segment elevation myocardial infarction undergoing primary percutaneous coronary intervention: the HORIZONS-AMI trial.</title>
+      <link>https://thomasmcandrew.com/publication/kosmidou-2017-worsening/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kosmidou-2017-worsening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-94 Impact of Thin-Cap Fibroatheromas on Unanticipated Ischemic Events in Medically Treated Patients With Diabetes Mellitus: Insights From the PROSPECT Study</title>
+      <link>https://thomasmcandrew.com/publication/kedhi-2016-tct/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kedhi-2016-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness of spatial micronetworks</title>
+      <link>https://thomasmcandrew.com/publication/mcandrew-2015-robustness/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/mcandrew-2015-robustness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association Between Coronary Calcification And Bleeding After Pci In Acs: Pooled Analysis From Horizons-Ami And Acuity Trials</title>
+      <link>https://thomasmcandrew.com/publication/genereux-2013-association/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/genereux-2013-association/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of the environmental impact of commonly used surgical approaches to hysterectomy</title>
+      <link>https://thomasmcandrew.com/publication/woods-2013-comparison/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/woods-2013-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complementary Predictive Value Of Myocardial Blush Grade And St-Segment Resolution After Primary Pci: An Analysis From Horizons-Ami</title>
+      <link>https://thomasmcandrew.com/publication/brener-2013-complementary/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/brener-2013-complementary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of bivalirudin and paclitaxel-eluting stents on outcomes in patients undergoing primary percutaneous coronary intervention of the left anterior descending artery</title>
+      <link>https://thomasmcandrew.com/publication/wohrle-2013-impact/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/wohrle-2013-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of coronary calcification on one-year outcomes after PCI in STEMI and NSTEMI: pooled analysis from horizons and ACUITY trials</title>
+      <link>https://thomasmcandrew.com/publication/genereux-2013-impact/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/genereux-2013-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of paravalvular leak following transcatheter aortic valve replacement on one-year mortality: analysis of the combined PARTNER cohorts</title>
+      <link>https://thomasmcandrew.com/publication/kodali-2013-impact/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kodali-2013-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of preoperative moderate/severe mitral regurgitation on 2-year outcome after transcatheter and surgical aortic valve replacement: insight from the PARTNER (Placement of AoRTic TraNscathetER Valve) Trial Cohort A</title>
+      <link>https://thomasmcandrew.com/publication/barbanti-2013-impact/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/barbanti-2013-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moderated Poster Differences in Baseline Echo Parameters in Patients with Varying Severity of Paravalvular Regurgitation Following Transcatheter Valve Replacement</title>
+      <link>https://thomasmcandrew.com/publication/hahn-2013-moderated/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/hahn-2013-moderated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moderated Poster: Predictors of Impact of Prosthesis-patient Mismatch following Transcatheter Aortic Valve Replacement-A Partner Trial Cohort A Analysis</title>
+      <link>https://thomasmcandrew.com/publication/pibarot-2013-moderated/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/pibarot-2013-moderated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obstetricians/Gynecologists And Heart Health: Untapped Allies In The Fight On Cardiovascular Disease</title>
+      <link>https://thomasmcandrew.com/publication/rosser-2013-obstetricians/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/rosser-2013-obstetricians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of 1-year mortality in patients with acute coronary syndromes undergoing percutaneous coronary intervention: validation of the logistic clinical SYNTAX (Synergy Between Percutaneous Coronary Interventions With Taxus and Cardiac Surgery) score</title>
+      <link>https://thomasmcandrew.com/publication/farooq-2013-prediction/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/farooq-2013-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation between six-minute walk test performance and outcomes after transcatheter aortic valve implantation (from the PARTNER trial)</title>
+      <link>https://thomasmcandrew.com/publication/green-2013-relation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/green-2013-relation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex-Specific Differences In Late Mortality After Transcatheter AVR In The PARTNER Trial</title>
+      <link>https://thomasmcandrew.com/publication/kodali-2013-sex/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kodali-2013-sex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stenting During STEMI Is Associated With Less Neointimal Hyperplasia: A Pooled IVUS Analysis From The HORIZONS-AMI And Taxus IV, V, And ATLAS Trials</title>
+      <link>https://thomasmcandrew.com/publication/kobayashi-2013-stenting/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kobayashi-2013-stenting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-112 Left Ventricular Ejection Fraction Improves Less after Trans-Apical Transcatheter Aortic Valve Replacement Compared to a Trans-Femoral Approach</title>
+      <link>https://thomasmcandrew.com/publication/fearon-2013-tct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/fearon-2013-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-113 Clinical and Left Ventricular Functional Outcomes Associated with Cardiac Biomarker Elevation after Transfemoral TAVR: A Sub-analysis from the PARTNER Trial</title>
+      <link>https://thomasmcandrew.com/publication/zajarias-2013-tct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/zajarias-2013-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-114 Impact of Left Ventricular Function on Outcomes of Transcatheter Aortic Valve Replacement and Medical Therapy in Inoperable Patients with Aortic Stenosis: Insights from the Placement of Aortic Transcatheter Valves (PARTNER) Trial (Cohort B)</title>
+      <link>https://thomasmcandrew.com/publication/elmariah-2013-tct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/elmariah-2013-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-19 The Impact of Coronary Lesion Severity on Drug-eluting Stent Outcomes in Patients with and without Diabetes Mellitus</title>
+      <link>https://thomasmcandrew.com/publication/kedhi-2013-tct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/kedhi-2013-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-236 Clinical Profile And Impact Of A Family History Of Premature Coronary Artery Disease On Long-term Clinical Ischemic Events In Patients Undergoing PCI For STEMI: Analysis From The HORIZONS-AMI Trial. Revascularization And Stents In Acute Myocardial Infarction) Trial.</title>
+      <link>https://thomasmcandrew.com/publication/ertelt-2013-tct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/ertelt-2013-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-261 Safety and efficacy of Bivalirudin monotherapy in patients with non-ST segment elevation myocardial infarction undergoing PCI: Results from the ACUITY Study</title>
+      <link>https://thomasmcandrew.com/publication/souza-2013-tct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/souza-2013-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-292 reduced bleeding complications and increased event-free survival with femoral vascular closure device use and bivalirudin in stemi patients undergoing primary angioplasty in the horizons-ami trial</title>
+      <link>https://thomasmcandrew.com/publication/sanborn-2013-tct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/sanborn-2013-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-294 Transradial versus Transfemoral Method of Two-Stent Implantation for True Bifurcation Lesions: Comparison of Immediate and Long-Term Outcomes</title>
+      <link>https://thomasmcandrew.com/publication/gao-2013-tct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/gao-2013-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-617 Impact Of Gender In The Relationship Between Intravascular Ultrasound And Fractional Flow Reserve</title>
+      <link>https://thomasmcandrew.com/publication/omar-2013-tct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/omar-2013-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-754 Clinical and Left Ventricular Functional Outcomes Associated with Cardiac Biomarker Elevation after Transapical TAVR: A Sub-analysis from the PARTNER Trial</title>
+      <link>https://thomasmcandrew.com/publication/paradis-2013-tct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/paradis-2013-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCT-773 The Prognostic Significance of Changes in B-type Naturetic Peptide (BNP) after Transcatheter Aortic Valve Replacement (TAVR): THE PARTNER I EXPERIENCE</title>
+      <link>https://thomasmcandrew.com/publication/guerrero-2013-tct/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/guerrero-2013-tct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The clinical relevance of rising CA-125 levels within the normal range in patients with uterine papillary serous cancer</title>
+      <link>https://thomasmcandrew.com/publication/frimer-2013-clinical/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/frimer-2013-clinical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of six-minute walk test performance on outcomes after transcatheter aortic valve replacement: insights from the PARTNER trial</title>
+      <link>https://thomasmcandrew.com/publication/green-2013-impact/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/green-2013-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altered biomarkers of mucosal immunity and reduced vaginal Lactobacillus concentrations in sexually active female adolescents</title>
+      <link>https://thomasmcandrew.com/publication/madan-2012-altered/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/madan-2012-altered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of bactericidal activity of genital tract secretions with Escherichia coli colonization in pregnancy</title>
+      <link>https://thomasmcandrew.com/publication/ghartey-2012-association/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/ghartey-2012-association/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cervical intraepithelial neoplasia is associated with genital tract mucosal inflammation</title>
+      <link>https://thomasmcandrew.com/publication/mhatre-2012-cervical/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/mhatre-2012-cervical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High prevalence of high grade anal intraepithelial neoplasia in HIV-infected women screened for anal cancer</title>
+      <link>https://thomasmcandrew.com/publication/hou-2012-high/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/hou-2012-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P16. 03: 3-dimensional power Doppler (3DPD) \&#34;biopsy\&#34; of the Utero-Placental Circulation Space (UPCS)</title>
+      <link>https://thomasmcandrew.com/publication/gebb-2012-p-16/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/gebb-2012-p-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality assurance initiative to improve the performance of cytology and HPV testing for predicting clinically relevant disease in peri-and postmenopausal women with ASCUS</title>
+      <link>https://thomasmcandrew.com/publication/callery-2012-quality/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/callery-2012-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cervical microbiome over 7 years and a comparison of methodologies for its characterization</title>
+      <link>https://thomasmcandrew.com/publication/smith-2012-cervical/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/smith-2012-cervical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A phase II study of the PARP inhibitor ABT-888 plus temozolomide in patients with heavily pretreated, metastatic colorectal cancer.</title>
+      <link>https://thomasmcandrew.com/publication/pishvaian-2011-phase/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/publication/pishvaian-2011-phase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

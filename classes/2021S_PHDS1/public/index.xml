@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Population Health Data Science (PHDS) - I </title>
+    <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/</link>
+    <description>Recent content on Population Health Data Science (PHDS) - I </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy {year}</copyright>
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://thomasmcandrew.com/classes/2020F_PHDS1/public/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Midterm review</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/midterm_review/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/midterm_review/</guid>
+      <description>
+
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please read &lt;a href=&#34;https://www.openintro.org/go/?id=biostat0&amp;amp;referrer=/book/biostat/index.php&#34; target=&#34;_blank&#34;&gt;Open Intro&lt;/a&gt; 5.1 and 5.3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;info&#34;&gt;Info&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The midterm is scheduled for 2020-10-26&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;todo&#34;&gt;Todo&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pick a team mate and a topic for your final project&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 09 - The t-test and pvalue</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week09/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week09/</guid>
+      <description>
+
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please read &lt;a href=&#34;https://www.openintro.org/go/?id=biostat0&amp;amp;referrer=/book/biostat/index.php&#34; target=&#34;_blank&#34;&gt;Open Intro&lt;/a&gt; 5.1 and 5.3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;info&#34;&gt;Info&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The midterm is scheduled for 2020-10-26&lt;/li&gt;
+&lt;li&gt;The midterm review will be assigned this week&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;todo&#34;&gt;Todo&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pick a team mate and a topic for your final project&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 08 - Hypothesis testing</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week08/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week08/</guid>
+      <description>
+
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please read &lt;a href=&#34;https://www.openintro.org/go/?id=biostat0&amp;amp;referrer=/book/biostat/index.php&#34; target=&#34;_blank&#34;&gt;Open Intro&lt;/a&gt; 4.3 and 5.1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;info&#34;&gt;Info&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The midterm is scheduled for 2020-10-26!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;todo&#34;&gt;Todo&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read over the Recitation!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 07 - The normal, poisson, distrbutions of parameters and the confidence interval</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week07/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week07/</guid>
+      <description>
+
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please read &lt;a href=&#34;https://www.openintro.org/go/?id=biostat0&amp;amp;referrer=/book/biostat/index.php&#34; target=&#34;_blank&#34;&gt;Open Intro&lt;/a&gt; section 3.3 to 3.5 and 4 - 4.2.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;info&#34;&gt;Info&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Midterm vote is in. The midterm is scheduled for 2020-10-26!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;todo&#34;&gt;Todo&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 06 - The binomial, normal, and poisson</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week06/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week06/</guid>
+      <description>
+
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please read &lt;a href=&#34;https://www.openintro.org/go/?id=biostat0&amp;amp;referrer=/book/biostat/index.php&#34; target=&#34;_blank&#34;&gt;Open Intro&lt;/a&gt; section 3.1 to 3.5 (same as last week)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;info&#34;&gt;Info&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Quiz this Wednesday during recitation!
+** Will cover material from weeks 3, 4, and 5.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;todo&#34;&gt;Todo&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vote on when you would like your midterm! The link is &lt;a href=&#34;https://zvite.co/i/esm8yoG-&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 05 - Distributions of random variables</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week05/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week05/</guid>
+      <description>
+
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please read &lt;a href=&#34;https://www.openintro.org/go/?id=biostat0&amp;amp;referrer=/book/biostat/index.php&#34; target=&#34;_blank&#34;&gt;Open Intro&lt;/a&gt; section 3.1 to 3.5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;info&#34;&gt;Info&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HW03 grades and Quiz will be distributed by the end of Friday.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;todo&#34;&gt;Todo&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 04 - Cond. Prob, Bayes, and Random Variables</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week04/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week04/</guid>
+      <description>
+
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please read &lt;a href=&#34;https://www.openintro.org/go/?id=biostat0&amp;amp;referrer=/book/biostat/index.php&#34; target=&#34;_blank&#34;&gt;Open Intro&lt;/a&gt; section 2.1.5 to 3.4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;info&#34;&gt;Info&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Quiz covering weeks 1, 2, and the first class of week03 will take place on 2020-09-16 (Weds)!&lt;/li&gt;
+&lt;li&gt;HW02 grades will be distributed by the end of Wednesday.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;todo&#34;&gt;Todo&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 03 - Foundations of probability theory</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week03/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week03/</guid>
+      <description>
+
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please read &lt;a href=&#34;https://www.openintro.org/go/?id=biostat0&amp;amp;referrer=/book/biostat/index.php&#34; target=&#34;_blank&#34;&gt;Open Intro&lt;/a&gt; section 2.1 to 2.1.5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;info&#34;&gt;Info&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Quiz covering weeks 1, 2, and the first class of week3 will take place on 2020-09-16.&lt;/li&gt;
+&lt;li&gt;HW01 grades will be distributed by the end of Wednesday.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;todo&#34;&gt;Todo&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(Optional) Send me feedback about the class, what I am doing well, and where I can improve. The Form to fill out is &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdX1Wkfm_iIQbs_VBn6SMQ2iTtFuSzC5xTVXwHxa5FqNW042g/viewform?usp=sf_link&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 02 - Summaries and relationships between variables</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week02/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week02/</guid>
+      <description>
+
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please read &lt;a href=&#34;https://www.openintro.org/go/?id=biostat0&amp;amp;referrer=/book/biostat/index.php&#34; target=&#34;_blank&#34;&gt;Open Intro&lt;/a&gt; section 1.4 to 1.6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;todo&#34;&gt;Todo&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please signup for a &lt;em&gt;free&lt;/em&gt; GitHub account at &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;https://github.com/&lt;/a&gt; and email your username.&lt;/li&gt;
+&lt;li&gt;Please download/install Python 3 on your computer or make sure you can login to the cluster computer.
+A tutorial for Windows, Linux, and Mac is available &lt;a href=&#34;https://realpython.com/installing-python/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 01 - Data</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week01/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/week01/</guid>
+      <description>
+
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please read &lt;a href=&#34;https://www.openintro.org/go/?id=biostat0&amp;amp;referrer=/book/biostat/index.php&#34; target=&#34;_blank&#34;&gt;Open Intro&lt;/a&gt; section 1.1 to 1.3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;todo-mandatory&#34;&gt;Todo (mandatory)&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please fill out when you are best available for office hours on this &lt;a href=&#34;https://zvite.co/i/6Rtv3qBR&#34; target=&#34;_blank&#34;&gt;form&lt;/a&gt;. I will pick my office hours (EST) based on when students are most available.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;todo-optional-we-will-go-over-these-in-recitation-01&#34;&gt;Todo (Optional, we will go over these in Recitation 01)&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please signup for a &lt;em&gt;free&lt;/em&gt; GitHub account at &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;https://github.com/&lt;/a&gt; and fill-in this &lt;a href=&#34;https://forms.gle/Ci3omFNc7qChfX6P8&#34; target=&#34;_blank&#34;&gt;form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Please download/install Python 3 on your computer. A tutorial for Windows, Linux, and Mac is available &lt;a href=&#34;https://realpython.com/installing-python/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Python 3</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/pythontutorial/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/publication/pythontutorial/</guid>
+      <description>
+
+&lt;h1 id=&#34;additional-tutorial-info&#34;&gt;Additional tutorial info&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://machinelearningmastery.com/machine-learning-in-python-step-by-step/&#34; target=&#34;_blank&#34;&gt;Tutorial 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://swcarpentry.github.io/python-novice-inflammation/&#34; target=&#34;_blank&#34;&gt;Tutorial 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonspot.com/&#34; target=&#34;_blank&#34;&gt;Tutorial 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codecademy.com/learn/learn-python-3&#34; target=&#34;_blank&#34;&gt;Tutorial 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.spyder-ide.org/&#34; target=&#34;_blank&#34;&gt;IDE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stat340 Applied Regression</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/teaching/2019_mhc_stat340/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/teaching/2019_mhc_stat340/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stat340 Applied Regression (MHC)</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/teaching/2019_mhc_stat340/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/teaching/2019_mhc_stat340/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critical Slowing Down and US Influenza incidence</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/post/critical-slowing-down-influenza/</link>
+      <pubDate>Mon, 10 Jun 2019 14:06:29 -0400</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/post/critical-slowing-down-influenza/</guid>
+      <description>
+
+&lt;h3 id=&#34;diff-eq-and-bifurcations&#34;&gt;Diff. Eq and bifurcations&lt;/h3&gt;
+
+&lt;!-- general description of diff eq and the goal --&gt;
+
+&lt;p&gt;A differential equation relates a function to it&amp;rsquo;s derivatives.
+For more general systems involving many different functions, a system of differential equations relates the set of functions to their derivatives.&lt;/p&gt;
+
+&lt;p&gt;For example,
+$$
+\begin{equation}
+    \frac{dy}{dt} = y\sin(t)
+\end{equation}
+$$
+and
+$$
+\begin{equation}
+    A \frac{d^{2}y}{dt^{2}} + B\frac{dy}{dt} + C = 0,
+\end{equation}
+$$
+are differential equations.
+The first describes $y$ using the first derivative only, the second equation involving $y$&amp;rsquo;s first and second derivatives.&lt;/p&gt;
+
+&lt;p&gt;The goal of any differential equation (difeq) is finding a solution, finding a function $f$ that satisfies all the constraints imposed by the difeq.
+Looking at our first example diffeq., a solution would be a function $y(t)$ such that the first derivative equals $y(t) \times \sin(t)$.
+The function $y_{1}(t) = e^{t^{2}}$ would not be a solution,&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{equation}
+    \frac{dy_{1}}{dt} = 2t e^{t^{2}} = 2t y_1 \neq y_1 \sin(t).
+\end{equation}
+$$&lt;/p&gt;
+
+&lt;p&gt;but $ y(t) = k e^{-\cos(t)} $, $k$ a constant, is a solution (check).
+Given a starting point $(t_0,y_0)$ the solution (red) oscillates, at greater magnitude for larger positive and negative $y$ values (Fig).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;code/sol1.png&#34; alt=&#34;Fig1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As another example, consider the diff eq.
+$$
+  \frac{dx}{dt} = 5-x^2
+$$&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;code/sol2.png&#34; alt=&#34;Fig2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lacking any external influencers, a solution like the one above can completely describe the system.
+When a system can be influenced by external forces, more is needed to describe the system.&lt;/p&gt;
+
+&lt;p&gt;Consider the diffeq.
+$$
+   \frac{dx}{dt} = f(x|r) = r-x^2
+$$&lt;/p&gt;
+
+&lt;!-- examples --&gt;
+
+&lt;!-- describe bifurcations --&gt;
+
+&lt;h3 id=&#34;critical-slowing-down&#34;&gt;Critical Slowing Down&lt;/h3&gt;
+
+&lt;!-- intuition behined csd --&gt;
+
+&lt;!-- math behined csd --&gt;
+
+&lt;h3 id=&#34;influenza-like-illness&#34;&gt;Influenza like illness&lt;/h3&gt;
+
+&lt;!-- describe ILI data--&gt;
+
+&lt;!-- define goals of analysis--&gt;
+
+&lt;!-- compute statistics--&gt;
+
+&lt;!-- discuss results --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptively stacked ensembles for influenza forecasting with incomplete data</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2019sdss/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2019sdss/</guid>
+      <description>&lt;p&gt;Seasonal Influenza infects an average 30 million people in the United States every year, overburdening hospitals during weeks of peak incidence.Named by the CDC as an important tool to fight the damaging effects of these epidemics, accurate forecasts of influenza and influenza like illness (ILI) forewarn public health officials about when, and where, seasonal influenza outbreaks will hit hardest.&lt;/p&gt;
+
+&lt;p&gt;Ensemble forecasts have shown positive results in forecasting 1 to 4 week ahead ILI percentages better than any single model in an ensemble.But current ensemble forecasts are static within a season, training on past ILI data before the season begins and generating optimal weights for each model kept constant throughout the season.We propose a novel adaptive ensemble forecast capable of changing model weights week-by-week throughout the flu season, only needing current flu season data to make predictions, and able to moderate ensemble weights with a prior chosen through cross-validation.At the start of the season, without any data, models are weighted equally, and after observing how the ensemble&amp;rsquo;s models perform on week ahead forecasts, a variational inference algorithm updates model weights and forecasts the next 4 weeks of ILI percentages.&lt;/p&gt;
+
+&lt;p&gt;Our adaptive ensemble performs as well as the static ensemble in the US national and regional level (mean % dif.in log-score between adaptive and static ensemble = 1.1;upper 97.5CI =1.4) and better for more sparse seasons (e.g. Season &lt;sup&gt;2011&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2012&lt;/sub&gt;;mean = -2.9;95CI = [-3.7, -2.1];p&amp;lt;0.01).The choice of prior (equal across models) also affects adaptive ensemble performance, finding the best logscore with a prior weight equal to 8% of the training data.&lt;/p&gt;
+
+&lt;p&gt;In settings without substantial past data (i.e. emerging pandemics) or when new models do not have a long track-record of performance, an adaptive ensemble approach will be the only option for performance-based weighting of models, enhancing the public health impact of ensemble forecasts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptively stacked ensembles for influenza forecasting with incomplete data</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2019adaptivemidas/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2019adaptivemidas/</guid>
+      <description>&lt;p&gt;Influenza prediction can better prepare public health officials for seasonal outbreaks. We propose an adaptive multi-model ensemble forecast method that changes model weights week-by-week throughout the flu season. Without historical training data or when models do not have a track-record, an adaptive model can enhance the public health impact of ensemble forecasts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptively stacked ensembles for influenza forecasting with incomplete data</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2019adaptive/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2019adaptive/</guid>
+      <description>&lt;p&gt;Seasonal Influenza infects an average 30 million people in the United States every year, overburdening hospitals during weeks of peak incidence. Named by the CDC as an important tool to fight the damaging effects of these epidemics, accurate forecasts of influenza and influenza like illness (ILI) forewarn public health officials about when, and where, seasonal influenza outbreaks will hit hardest.&lt;/p&gt;
+
+&lt;p&gt;Ensemble forecasts have shown positive results in forecasting 1 to 4 week ahead ILI percentages better than any single model in an ensemble. But current ensemble forecasts are static within a season, training on past ILI data before the season begins and generating optimal weights for each model kept constant throughout the season. We propose a novel adaptive ensemble forecast capable of changing model weights week-by-week throughout the flu season, only needing current flu season data to make predictions, and by adding a prior, able to moderate abrupt changes in ensemble weights that may be caused by mid-seasons revisions to past ILI data.&lt;/p&gt;
+
+&lt;p&gt;During the course of the flu season hospitals and agencies experience reporting delays, changing ILI percentages from past weeks. ILI percentages only considered final when the flu season ends, adding a prior distribution over ensemble weights allows us to account for incomplete, weekly-changing historical data. At the start of the season and without any data, models are weighted equally. After observing how the ensemble\&amp;rsquo;s models perform on week ahead forecasts, a variational inference algorithm updates model weights and forecasts the next 4 weeks of ILI percentages.&lt;/p&gt;
+
+&lt;p&gt;Obtaining an optimal prior weighting equal to 8% of the training data to account for incomplete ILI percentages, our adaptive ensemble shows comparable performance to the static ensemble season to season (mean % dif. log-score = 0.03; 95CI = [-0.01,0.08]).&lt;/p&gt;
+
+&lt;p&gt;In settings without substantial historical training data (i.e. emerging pandemics) or when new forecasting models do not have a long track-record of performance, an adaptive ensemble approach is a valuable option for performance-based weighting of models, enhancing the public health impact of ensemble forecasts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical trial design in context (discussant)</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2018tct/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2018tct/</guid>
+      <description>&lt;p&gt;Moderators: Peter Juni, Robert W. Yeh&lt;/p&gt;
+
+&lt;p&gt;Discussants: John A. Bittl, Eugene H. Blackstone, Schuyler Jones, Thomas C. McAndrew, Roxana Mehran, Stuart J. Pocock, Matthew T. Roe&lt;/p&gt;
+
+&lt;p&gt;3:50 PM How to Make Trials Larger Simpler and Less Expensive
+Lecturers: Matthew T. Roe&lt;/p&gt;
+
+&lt;p&gt;4:00 PM Most Frequent Errors I See in the Analysis and Interpretation of Trials
+Lecturers: Peter Juni&lt;/p&gt;
+
+&lt;p&gt;4:10_PM Non Inferiority Trials Gone Wrong: Examples From the Recent Literature
+Lecturers: David J. Cohen&lt;/p&gt;
+
+&lt;p&gt;4:20_PM Stent Trials in High Bleeding Risk Patients: What is the Level of Evidence We Need
+Lecturers: Roxana Mehran 4:30_PM Roundtable Discussion with Audience&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assimilated LVEF: Combining human intuition with machine measurements for sharper estimates of left ventricular ejection fraction</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2018assimilated/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2018assimilated/</guid>
+      <description>&lt;p&gt;Background: Left ventricular ejection fraction (LVEF) is the most commonly used clinical measure of systolic function and is a powerful predictor of outcomes.  Current guidelines recommend using the biplane method of discs (MOD) (modified Simpson’s rule) to measure LVEF however the accuracy of this measurement is dependent on endocardial border detection and orthogonal, on-axis biplane imaging, and studies report both inter and intraobserver variability.&lt;/p&gt;
+
+&lt;p&gt;Objectives: In this analysis, we sought to reduce measurement error by fusing the cardiologist&amp;rsquo;s visual approximation of LVEF with the biplane MOD. Furthermore, we hypothesized that this new assimilated LVEF will better correlate with clinical outcomes.&lt;/p&gt;
+
+&lt;p&gt;Methods: We studied intermediate surgical risk patients with severe, symptomatic aortic stenosis from the PARTNER-IIA Trial treated with either surgical or transcatheter bioprosthetic aortic valves, who had core-lab assessments of both a visual estimate and a biplane MOD measurement of LVEF.&lt;/p&gt;
+
+&lt;p&gt;Results: Assimilating the core lab cardiologist’s visual estimate with the biplane MOD estimate, reduces variability by 28.7% on average compared to the biplane MOD estimate alone. After accounting for LVEF measurement error, the assimilated LVEF shrank confidence intervals for the association between LVEF&amp;lt; 35% and the composite of 1 year cardiovascular death compared to biplane MOD (pvalue &amp;lt; 0.01)&lt;/p&gt;
+
+&lt;p&gt;Conclusions: Combining an experienced echocardiographer’s visual estimates and biplane MOD measurements, can reduce reproducibility errors in LVEF measurement and improve the association between LVEF and cardiovascular mortality at 1 year in a large, population-based study.&lt;/p&gt;
+
+&lt;p&gt;Keywords: Left Ventricular ejection fraction, measurement error, PARTNER, TAVR&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spotlight on interpreting evidence: The p-value and beyond (discussant)</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2017tct/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2017tct/</guid>
+      <description>&lt;p&gt;Spotlight on Interpreting Evidence: The P-value and Beyond 2:45 PM - 3:30 PM
+Moderators: Eugene H. Blackstone, Stuart J. Pocock&lt;/p&gt;
+
+&lt;p&gt;Discussants: Donald Cutlip, A. Michael Lincoff, Thomas C. McAndrew, Jan G. P. Tijssen, Marco Valgimigli, Roseann M White&lt;/p&gt;
+
+&lt;p&gt;2:45 PM Proper and Improper Interpretations of the P-value
+Eugene H. Blackstone&lt;/p&gt;
+
+&lt;p&gt;2:55 PM Beyond Time-to-First Event: Counting Multiple Events, Hierarchical Measures, and Weighted Composites
+Jan G. P. Tijssen&lt;/p&gt;
+
+&lt;p&gt;3:05 PM Alternatives to Traditional P-value Testing: Bayesian Designs
+Roseann M White&lt;/p&gt;
+
+&lt;p&gt;3:15 PM Roundtable Discussion With Audience Q&amp;amp;A&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical trial design, Statistics, and Interpretations (discussant)</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2016clinicaltrialdesign/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2016clinicaltrialdesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math020 Fundementals of Calculus II (UVM)</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/teaching/2016math020/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/teaching/2016math020/</guid>
+      <description>&lt;p&gt;Fundamentals of Calculus II is the second course in our two-course applied calculus sequence. Fundamentals of Calculus II is a continuation of the study of the calculus of functions of one variable as well as a study of multivariable calculus. This will include area between curves, integration by parts, basic differential equations, separation of variables, solving first-order linear differential equations, Taylor Polynomials and Tayler Series, improper integrals, continuous random variables and probability, functions of several variables, partial derivatives, maxima and minima of multivariable functions, Lagrange multipliers, and double integrals. This basically covers chapters 6 – 11 of the textbook given below. Topics will be presented with a level of depth and rigor appropriate for students pursuing degrees in business, economics, social and life sciences. Please speak to the Department of Mathematics and Statistics if you are unsure if you are taking the correct calculus course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anomaly detection from physical correlations (talk)</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2016cnls/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2016cnls/</guid>
+      <description>&lt;p&gt;Cyber-physical systems are critical infrastructures that are
+crucial both to the reliable delivery of resources such as energy, and to the stable functioning of automatic and control architectures. These systems are composed of interdependent physical, control and communications networks described by disparate mathematical models creating scientific
+challenges that go well beyond the modeling and analysis of
+the individual networks. A key challenge in cyber-physical
+defense is a fast online detection and localization of faults
+and intrusions without prior knowledge of the failure type.
+We describe a set of techniques for the efficient identification of faults from correlations in physical signals, assuming
+only a minimal amount of available system information. The
+performance of our detection method is illustrated on data
+collected from a large building automation system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What we write about when we write about causality</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2016whatwe/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2016whatwe/</guid>
+      <description>&lt;p&gt;Identifying and communicating relationships between causes and effects is important for understanding our
+world, but is affected by language structure, cognitive and
+emotional biases, and the properties of the communication
+medium. Despite the increasing importance of social media,
+much remains unknown about causal statements made online.
+To study real-world causal attribution, we extract a large-scale
+corpus of causal statements made on the Twitter social network
+platform as well as a comparable random control corpus. We
+compare causal and control statements using statistical language
+and sentiment analysis tools. We find that causal statements
+have a number of significant lexical and grammatical differences
+compared with controls and tend to be more negative in sentiment
+than controls. Causal statements made online tend to focus on
+news and current events, medicine and health, or interpersonal
+relationships, as shown by topic models. By quantifying the
+features and potential biases of causality communication, this
+study improves our understanding of the accuracy of information
+and opinions found online.&lt;/p&gt;
+
+&lt;p&gt;Keywords social media; online social network; causal attribution; natural language processing&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Percolation on Spatial Networks</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2015percolation/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2015percolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ooblexity: Demonstration of non-newtonian fluids</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2015ooblex/</link>
+      <pubDate>Sat, 04 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2015ooblex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustess of Spatial Micronetworks</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2015complenet/</link>
+      <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2015complenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and Functional Robustness in Networks</title>
+      <link>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2014sfinetwork/</link>
+      <pubDate>Thu, 03 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmcandrew.com/classes/2020F_PHDS1/public/talk/2014sfinetwork/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

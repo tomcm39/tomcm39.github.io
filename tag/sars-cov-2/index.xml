@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SARS-CoV-2 | tommcandrew</title>
+    <link>https://thomasmcandrew.com/tag/sars-cov-2/</link>
+      <atom:link href="https://thomasmcandrew.com/tag/sars-cov-2/index.xml" rel="self" type="application/rss+xml" />
+    <description>SARS-CoV-2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>SARS-CoV-2</title>
+      <link>https://thomasmcandrew.com/tag/sars-cov-2/</link>
+    </image>
+    
+    <item>
+      <title>Aggregating Statistical Models and Human Judgment to forecast COVID-19</title>
+      <link>https://thomasmcandrew.com/talk/aggregating-statistical-models-and-human-judgment-to-forecast-covid-19/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/aggregating-statistical-models-and-human-judgment-to-forecast-covid-19/</guid>
+      <description>&lt;p&gt;Forecasting the trajectory of the US COVID-19 pandemic can support public health officials who make decisions with partial knowledge of how the virus will evolve over time. Computational models are capable of processing large, structured datasets. However the trajectory of COVID-19 depends on information inaccessible to computational models such as social, economic, and political influences. We aim to collect monthly probabilistic predictions from experts in the modeling of infectious disease and trained, generalist human forecasters about key targets that signal changes in the trajectory of the US COVID-19 pandemic. Predictions from humans will be (i) aggregated into a consensus forecast and (ii) combined with an ensemble of computational models, called a metaforecast. In January we collected 779 human judgment predictions on 7 targets related to COVID-19. We compared forecasts from: (i) an ensemble of computational models called the COVID-19 Forecasthub (Fhub), (ii) a consensus of human predictions and (iii) a metaforecast–a combination of the consensus and Fhub. Preliminary results for predictions of national incident cases and deaths made for the last week in January show the consensus outperformed the Fhub when predicting deaths but the Fhub made a more accurate prediction of incident cases. The metaforecast’s accuracy was between that of the consensus and Fhub. A consensus can provide forecasts of pandemic targets similar in accuracy to an ensemble of computational models. A consensus, as opposed to an ensemble, is not limited by the type of questions asked and we have asked the crowd a diverse set of questions about the pandemic. But because a consensus requires human effort we are limited by the number of questions we can ask. We aim to combine the best of both worlds by drawing on computational models and consensus of human judgment to support how public health officials translate novel information about the virus into mitigation efforts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metaforecasting the US COVID-19 outbreak</title>
+      <link>https://thomasmcandrew.com/talk/metaforecasting-the-us-covid-19-outbreak/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/metaforecasting-the-us-covid-19-outbreak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A consensus of probabilistic predictions by experts and trained forecasters of the timing and efficacy of a SARS-CoV-2 vaccine</title>
+      <link>https://thomasmcandrew.com/talk/a-consensus-of-probabilistic-predictions-by-experts-and-trained-forecasters-of-the-timing-and-efficacy-of-a-sars-cov-2-vaccine/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/a-consensus-of-probabilistic-predictions-by-experts-and-trained-forecasters-of-the-timing-and-efficacy-of-a-sars-cov-2-vaccine/</guid>
+      <description>&lt;p&gt;A safe, effective vaccine is a key component to slowing the spread of SARS- CoV- 2. But a recent poll suggests less than 50% of the US public would volunteer for inoculation, highlighting uncertainty surrounding the safety and efficacy of a vaccine. We solicited 9 infectious disease experts and 11 trained forecasters to predict: when the FDA will approve a vaccine, when 100M doses will be available to the public, and to estimate an approved vaccine’s efficacy. For the past four months, we have asked experts and trained forecasters to provide probabilistic predictions related to the timing and efficacy of a SARS- CoV- 2 vaccine. At the end of each month we (i) combined predictions using an equally-weighted linear pool, (ii) created a report that contained key findings and a detailed description of questions and consensus predictions, (iii) made this report and the data used to create it available to the CDC and public. A total 20 experts and forecasters made 537 predictions over 26 questions. A consensus of experts and trained forecasters predict a median of Jan. 2021 [80%CI: Oct. 2020, Nov. 2021] for when the FDA will approve a SARS- CoV-2 vaccine and a median of 18 weeks after approval [80%CI: 5.0, 50.0] for when 100M doses will be available to the public. Experts’ median prediction of efficacy was 50% [80%CI: 26%, 76%] for the first approved vaccine. An expert consensus provides realistic estimates of a COVID-19 solution with the goal of improving public awareness, public health communication, and decision making. Experts can quantify their predictions with a probabilistic distribution. Predictions are timely and based on up- to- date information. Experts predict: a vaccine will likely be approved by Jan. 2021 and that 100M doses will be available within 5 months of approval, but this vaccine may not be efficacious enough to achieve herd immunity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consensus probabilistic predictions of the timing, efficacy, and safety of a SARS-CoV-2 vaccine by experts and trained forecasters</title>
+      <link>https://thomasmcandrew.com/talk/consensus-probabilistic-predictions-of-the-timing-efficacy-and-safety-of-a-sars-cov-2-vaccine-by-experts-and-trained-forecasters/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/consensus-probabilistic-predictions-of-the-timing-efficacy-and-safety-of-a-sars-cov-2-vaccine-by-experts-and-trained-forecasters/</guid>
+      <description>&lt;p&gt;In the first of our new Speaker Series exploring the science of forecasting, biostatistician
+@tomcm39 will present new research on Consensus Forecasting Models for COVID-19 Vaccines and Treatments, supporting policy makers and the public. Join us on 10/23!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aggregating Expert Opinion on COVID-19</title>
+      <link>https://thomasmcandrew.com/talk/aggregating-expert-opinion-on-covid-19/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/aggregating-expert-opinion-on-covid-19/</guid>
+      <description>&lt;p&gt;Community-wide transmission of SARS-CoV-2 was reported in the US on February 26th. Since the virus was declared a pandemic by the WHO on March 11th, it has spread rapidly throughout the US and has caused more than 1.1M confirmed cases and 62K deaths. Forecasts provide public health officials at the state and federal level actionable information that can be used to mitigate the impact of an outbreak in advance. But forecasts from computational models often depend heavily on noisy surveillance data and take a large amount of work to build. Without guidance from forecasts, public health must rely on sparse past experiences to inform intervention. An expert consensus forecast, synthesizing both objective and subjective information, can be developed quickly and make predictions during the early phase of an outbreak, when computational models are still being built. In addition, an expert judgment model can address changing public health needs by asking different questions without much overhead. Each week from February 17th (early in the outbreak) to present we asked experts to predict the trajectory of the COVID-19 outbreak in the US. More than 40 experts made predictions that provided early information to public health officials. Over two months, experts made 4 predictions of the number of deaths in the US by the end of 2020 and gave median predictions between 150,000 to 250,000 deaths. Corresponding 80% prediction intervals of the number of deaths were generated and the minimum lower bound was 19.0K and maximum upper bound was 1.2M. Experts also estimate that, as of Apr 27th, there are over 14.5 million total SARS-CoV-2 cases present in the US with an 80% prediction interval of 4.8M to 28.1M. US national-level hospitalizations, experts predict, will most likely peak between April and June. Expert’s estimates agree with other computational model forecasts, and expert’s 80% prediction intervals covered the true number of confirmed cases in the US on nine out of ten evaluable predictions. An expert consensus has little overhead and can be deployed early in an outbreak to provide decision makers insight into an evolving disease. After computational models are built, experts can examine a broad array of questions to complement computational forecasts during a global catastrophe such as the novel coronavirus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aggregating Expert Opinion on COVID-19</title>
+      <link>https://thomasmcandrew.com/talk/aggregating-expert-opinion-on-covid-19/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/aggregating-expert-opinion-on-covid-19/</guid>
+      <description>&lt;p&gt;Community-wide transmission of SARS-CoV-2 was reported in the US on February 26th. Since the virus was declared a pandemic by the WHO on March 11th, it has spread rapidly throughout the US and has caused more than 1.1M confirmed cases and 62K deaths. Forecasts provide public health officials at the state and federal level actionable information that can be used to mitigate the impact of an outbreak in advance. But forecasts from computational models often depend heavily on noisy surveillance data and take a large amount of work to build. Without guidance from forecasts, public health must rely on sparse past experiences to inform intervention. An expert consensus forecast, synthesizing both objective and subjective information, can be developed quickly and make predictions during the early phase of an outbreak, when computational models are still being built. In addition, an expert judgment model can address changing public health needs by asking different questions without much overhead. Each week from February 17th (early in the outbreak) to present we asked experts to predict the trajectory of the COVID-19 outbreak in the US. More than 40 experts made predictions that provided early information to public health officials. Over two months, experts made 4 predictions of the number of deaths in the US by the end of 2020 and gave median predictions between 150,000 to 250,000 deaths. Corresponding 80% prediction intervals of the number of deaths were generated and the minimum lower bound was 19.0K and maximum upper bound was 1.2M. Experts also estimate that, as of Apr 27th, there are over 14.5 million total SARS-CoV-2 cases present in the US with an 80% prediction interval of 4.8M to 28.1M. US national-level hospitalizations, experts predict, will most likely peak between April and June. Expert’s estimates agree with other computational model forecasts, and expert’s 80% prediction intervals covered the true number of confirmed cases in the US on nine out of ten evaluable predictions. An expert consensus has little overhead and can be deployed early in an outbreak to provide decision makers insight into an evolving disease. After computational models are built, experts can examine a broad array of questions to complement computational forecasts during a global catastrophe such as the novel coronavirus.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cardiology | tommcandrew</title>
+    <link>https://thomasmcandrew.com/tag/cardiology/</link>
+      <atom:link href="https://thomasmcandrew.com/tag/cardiology/index.xml" rel="self" type="application/rss+xml" />
+    <description>cardiology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Fri, 22 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasmcandrew.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>cardiology</title>
+      <link>https://thomasmcandrew.com/tag/cardiology/</link>
+    </image>
+    
+    <item>
+      <title>Combining human intuition with machine measurements for sharper estimates of left ventricular ejection fraction</title>
+      <link>https://thomasmcandrew.com/talk/combining-human-intuition-with-machine-measurements-for-sharper-estimates-of-left-ventricular-ejection-fraction/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://thomasmcandrew.com/talk/combining-human-intuition-with-machine-measurements-for-sharper-estimates-of-left-ventricular-ejection-fraction/</guid>
+      <description>&lt;p&gt;Background: Left ventricular ejection fraction (LVEF) is the most commonly used clinical measure of systolic function and is a powerful predictor of outcomes.  Current guidelines recommend using the biplane method of discs (MOD) (modified Simpson’s rule) to measure LVEF however the accuracy of this measurement is dependent on endocardial border detection and orthogonal, on-axis biplane imaging, and studies report both inter and intraobserver variability.&lt;/p&gt;
+&lt;p&gt;Objectives: In this analysis, we sought to reduce measurement error by fusing the cardiologist&amp;rsquo;s visual approximation of LVEF with the biplane MOD. Furthermore, we hypothesized that this new assimilated LVEF will better correlate with clinical outcomes.&lt;/p&gt;
+&lt;p&gt;Methods: We studied intermediate surgical risk patients with severe, symptomatic aortic stenosis from the PARTNER-IIA Trial treated with either surgical or transcatheter bioprosthetic aortic valves, who had core-lab assessments of both a visual estimate and a biplane MOD measurement of LVEF.&lt;/p&gt;
+&lt;p&gt;Results: Assimilating the core lab cardiologist’s visual estimate with the biplane MOD estimate, reduces variability by 28.7% on average compared to the biplane MOD estimate alone. After accounting for LVEF measurement error, the assimilated LVEF shrank confidence intervals for the association between LVEF&amp;lt; 35% and the composite of 1 year cardiovascular death compared to biplane MOD (pvalue &amp;lt; 0.01)&lt;/p&gt;
+&lt;p&gt;Conclusions: Combining an experienced echocardiographer’s visual estimates and biplane MOD measurements, can reduce reproducibility errors in LVEF measurement and improve the association between LVEF and cardiovascular mortality at 1 year in a large, population-based study.&lt;/p&gt;
+&lt;p&gt;K&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
